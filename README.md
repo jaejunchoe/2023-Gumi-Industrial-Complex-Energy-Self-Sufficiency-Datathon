@@ -20,7 +20,7 @@
 2. 주 임무
 * 전민욱 - 데이터 분석(main), 서비스 기획(sub), AI 설계(sub)
 * 최재준 - 서비스 기획(main), 데이터 분석(sub)
-* Salakhov Tagir - AI 설계(main), 데이터 분석(sub)
+* Salakhov Tagir - AI 설계, 데이터 분석(sub)
 
 <br/><br/>
 
