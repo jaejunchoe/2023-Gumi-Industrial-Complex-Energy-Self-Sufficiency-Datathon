@@ -35,8 +35,8 @@
 ## 2. Data Analysis 
 
 
-<br/><br/>
-### 해당 방식으로 A사와 태양광 발전 데이터도 분석실시
+
+
 <br/><br/>
 
 
@@ -47,6 +47,6 @@
 
 
 ## 4. Anticipated Benefits
-![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/774c991b-492f-4fa3-9725-108588b19315)
+
 
 
