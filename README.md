@@ -44,8 +44,13 @@
 
 
 <br/><br/>
+
 ## 2. Data Analysis 
+
+<br/>
+
 - 데이터 분석 로드맵
+  
 ![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/9625ceaa-bf93-4a8b-a531-231ebf215784)
 
 <br/>
@@ -57,9 +62,18 @@
 
 - Clustering & AI Model 학습 결과
 1. 구미산단 데이터톤 전력사용량 데이터
+
+
+
+![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/5c786a05-26c3-4b84-85a6-2e824bed7ef6)
+![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/cde0a254-3d0c-45c9-bf65-20c04807f818)
 ![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/abd8c221-e902-4731-b9c6-e77cf15129ee)
 ![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/4c01505b-8f5a-4e1f-882f-9826820a92cd)
 
+
+<br/><br/>
+
+2. 구미산단 데이터톤 전력사용량 데이터
 
 
 <br/><br/>
