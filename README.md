@@ -33,8 +33,8 @@
 
 <br/><br/>
 ## 1. Problem Definition & Service Design
-- 스마트에너지클러스터 기업 설문조사 및 수요조사 분석한 결과 3가지 문제점 도출
-![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/a735eb01-ce36-47e9-8798-b144fa7c7c4d)
+- '스마트에너지클러스터 기업 설문조사 및 수요조사'에 대한 분석
+![그림2](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/263efd29-44fa-4133-be35-2c3102746fa1)
 
 
 <br/>
