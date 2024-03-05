@@ -43,6 +43,7 @@
 <br/>
 
 - 사용 알고리즘
+- 
 (1) Linear Models (선형모델) – 'Linear Regression', 'SVR'
 
 (2) Neural Networks (인공신경망) – 'Neural Network', 'MLPRegression'
