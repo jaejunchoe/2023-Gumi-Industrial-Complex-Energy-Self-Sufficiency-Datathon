@@ -1,11 +1,10 @@
 # 2023 구미산단 에너지자급자족 데이터톤
- 
-![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/73e027be-996b-4158-a8f6-0156e6bbca57)
+<img src="https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/73e027be-996b-4158-a8f6-0156e6bbca57" width="300" height="400">
 
 <br/><br/>
 
 # 🏆 Prize
-![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/675b8911-d60c-4c34-885f-772a588fed9c)
+<img src="[https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/73e027be-996b-4158-a8f6-0156e6bbca57" width="300" height="400">
 
 <br/><br/>
 
