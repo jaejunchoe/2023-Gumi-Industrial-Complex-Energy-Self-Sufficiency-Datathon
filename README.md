@@ -40,22 +40,15 @@
 - AI 모델 구현 로드맵
 ![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/b790f4db-db7f-46ac-b2f4-7a73f2e42b43)
 
+<br/>
 
 - 사용 알고리즘
-
-1.) Linear Models (선형모델) – Linear Regression, SVR
-
-2.) Neural Networks (인공신경망) – Neural Network (tensorflow), MLPRegression
-
-3.) Ensemble Models (앙상블) – Random Forest, Ensemble Models using Voting/Stacking 등
-
-4.) Gradient Boosting (그래디언트 부스팅) – LGBM Regression, Gradient Boosting Regression
-
-5.) RNN – LSTM
-
-6.) KNN
-
-
+(1) Linear Models (선형모델) – 'Linear Regression', 'SVR'
+(2) Neural Networks (인공신경망) – 'Neural Network', 'MLPRegression'
+(3) Ensemble Models (앙상블) – 'Random Forest', 'Neural Network', 'Voting', 'Stacking'
+(4) Gradient Boosting (그래디언트 부스팅) – 'LGBM Regression', 'Gradient Boosting Regression'
+(5) RNN – 'LSTM'
+(6) KNN - 'KNN'
 
 <br/><br/>
 ## 4. Data Analysis And Results 
