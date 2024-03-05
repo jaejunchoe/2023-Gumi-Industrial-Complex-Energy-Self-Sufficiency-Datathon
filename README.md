@@ -4,7 +4,8 @@
 <br/><br/>
 
 # 🏆 Prize
-<img src="[https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/73e027be-996b-4158-a8f6-0156e6bbca57" width="300" height="400">
+<img src="https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/1b1364d4-ff4b-4278-9c78-8d7f293cbb80" width="500" height="300">
+<img src="https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/2cdc6007-f802-46a1-924f-14b0b858d525" width="500" height="300">
 
 <br/><br/>
 
@@ -78,7 +79,7 @@
 <br/><br/>
 ## 5. Conclusion & Comment
 - 데이터의 크기 및 규모가 크고 개인 노트북을 사용하기에 모델 실행과 디버깅을 하기에 많은 시간이 소요되어 어려움이 존재했다.
-- 팀원 모두가 데이터톤의 경험이 전무했기에 EDA에서 많은 시간이 소요되었다.
+- 팀원 모두가 데이터톤의 경험이 전무했기에 EDA에서 많은 시간이 소요되었다. 특히, 전력량의 시차 연관성을 파악에 많은 고민을 했다.
 - Clustering에서 K-Means Clustering으로만 진행하다가 교수님의 자문을 통해 시계열 클러스터링을 통해서 비슷한 패턴을 갖는 기업끼리 Clustering을 하니 훨씬 수월하게 진행되었다. 
 - 여러 알고리즘들을 구현 및 적용하여 결과를 비교하면서 해당 데이터의 최적 알고리즘을 도출할 수 있었다.
 - 1가지의 알고리즘을 사용한 것과 여러 알고리즘을 활용하는 Ensemble Model의 평가지표값이 차이가 크게 존재하지 않았다. 
