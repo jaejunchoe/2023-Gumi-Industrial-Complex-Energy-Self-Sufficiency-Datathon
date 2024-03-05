@@ -43,7 +43,7 @@
 <br/>
 
 - 사용 알고리즘
-- 
+  
 (1) Linear Models (선형모델) – 'Linear Regression', 'SVR'
 
 (2) Neural Networks (인공신경망) – 'Neural Network', 'MLPRegression'
@@ -77,8 +77,12 @@
      ![image](https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/81966e72-1443-41c7-b2b9-28e19919435f)
 
 <br/><br/>
-## 5. 결론 및 한계
-
+## 5. Conclusion & Comment
+- 데이터의 크기 및 규모가 크고 개인 노트북을 사용하기에 모델 실행과 디버깅을 하기에 많은 시간이 소요되어 어려움이 존재했다.
+- 팀원 모두가 데이터톤의 경험이 전무했기에 EDA에서 많은 시간이 소요되었다.
+- Clustering에서 K-Means Clustering으로만 진행하다가 교수님의 자문을 통해 시계열 클러스터링을 통해서 비슷한 패턴을 갖는 기업끼리 Clustering을 하니 훨씬 수월하게 진행되었다. 
+- 여러 알고리즘들을 구현 및 적용하여 결과를 비교하면서 해당 데이터의 최적 알고리즘을 도출할 수 있었다.
+- 1가지의 알고리즘을 사용한 것과 여러 알고리즘을 활용하는 Ensemble Model의 평가지표값이 차이가 크게 존재하지 않았다. 
 
 
 
