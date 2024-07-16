@@ -1,4 +1,5 @@
 # 2023 구미산단 에너지자급자족 데이터톤
+* `참여유형: 서비스 분야`
 <img src="https://github.com/jaejunchoe/2023-Gumi-Industrial-Complex-Energy-Self-Sufficiency-Datathon/assets/157339263/73e027be-996b-4158-a8f6-0156e6bbca57" width="300" height="400">
 
 <br/><br/>
